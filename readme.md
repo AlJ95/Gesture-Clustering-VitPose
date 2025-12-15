@@ -1,6 +1,8 @@
 # Culture Analytics Project - Jan Albrecht
 ## Stereotypische Inszenierung - eine Analyse amerikanischer Filmplakate
 
+![Gesture Clustering - Image Analysis](https://github.com/AlJ95/CultureAnalytics/blob/master/data/Screenshot%20from%202025-12-15%2010-53-10.png)
+
 Diese Repository enthält die Daten und den Code für die Analyse von amerikanischen Filmplakaten. Die Analyse wurde im Rahmen des Kurses "Culture Analytics" an der Universität Leipzig durchgeführt.
 
 ### Daten
